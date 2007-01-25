@@ -1,0 +1,16 @@
+## Interface: 20003
+## Notes: Cartographer extension to remember mailboxes.
+## Title: Cartographer_Mail
+## Author: jazzyfox
+## DefaultState: enabled
+## LoadOnDemand: 0
+
+## RequiredDeps: Cartographer
+## OptionalDeps: Ace2, Babble-2.2
+## SavedVariables: Cartographer_MailDB
+
+## X-Category: Map
+## X-eMail: jazzyfox@gmail.com
+## Version: 1.0
+
+Cartographer_Mail.lua
