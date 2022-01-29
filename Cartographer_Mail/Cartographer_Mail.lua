@@ -17,9 +17,9 @@ local mod = Cartographer:NewModule("Mailboxes", "AceEvent-2.0", "AceConsole-2.0"
 function mod:OnInitialize()
 	self.name    = L["Mailboxes"]
 	self.title   = L["Mailboxes"]
-	self.author  = "jazzyfox"
+	self.author  = "alialliallie"
 	self.notes   = L["Module to remember mailboxes."]
-	self.email   = "jazzyfox@gmail.com"
+	self.email   = "allison@wow.alliesaur.us"
 	self.website = nil
 	self.version = nil
 
